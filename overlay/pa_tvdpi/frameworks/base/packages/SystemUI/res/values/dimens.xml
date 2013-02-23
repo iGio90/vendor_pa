@@ -21,7 +21,6 @@
     <dimen name="pie_status_size">20dp</dimen>
     <dimen name="pie_status_offset">-18dp</dimen>
     <dimen name="pie_notification_size">25dp</dimen>
-    <dimen name="pie_notification_offset">-105dp</dimen>
     <dimen name="pie_notification_row_size">26dp</dimen>
     <dimen name="pie_notification_icon_size">25dp</dimen>
 
